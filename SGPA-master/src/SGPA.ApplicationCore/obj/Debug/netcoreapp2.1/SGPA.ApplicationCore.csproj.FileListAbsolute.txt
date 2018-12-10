@@ -1,0 +1,9 @@
+C:\Users\robson\Downloads\SGPA-master\SGPA-master\src\SGPA.ApplicationCore\bin\Debug\netcoreapp2.1\SGPA.ApplicationCore.deps.json
+C:\Users\robson\Downloads\SGPA-master\SGPA-master\src\SGPA.ApplicationCore\bin\Debug\netcoreapp2.1\SGPA.ApplicationCore.dll
+C:\Users\robson\Downloads\SGPA-master\SGPA-master\src\SGPA.ApplicationCore\bin\Debug\netcoreapp2.1\SGPA.ApplicationCore.pdb
+C:\Users\robson\Downloads\SGPA-master\SGPA-master\src\SGPA.ApplicationCore\obj\Debug\netcoreapp2.1\SGPA.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\robson\Downloads\SGPA-master\SGPA-master\src\SGPA.ApplicationCore\obj\Debug\netcoreapp2.1\SGPA.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\robson\Downloads\SGPA-master\SGPA-master\src\SGPA.ApplicationCore\obj\Debug\netcoreapp2.1\SGPA.ApplicationCore.AssemblyInfo.cs
+C:\Users\robson\Downloads\SGPA-master\SGPA-master\src\SGPA.ApplicationCore\obj\Debug\netcoreapp2.1\SGPA.ApplicationCore.dll
+C:\Users\robson\Downloads\SGPA-master\SGPA-master\src\SGPA.ApplicationCore\obj\Debug\netcoreapp2.1\SGPA.ApplicationCore.pdb
+C:\Users\robson\Downloads\SGPA-master\SGPA-master\src\SGPA.ApplicationCore\obj\Debug\netcoreapp2.1\SGPA.ApplicationCore.csprojAssemblyReference.cache

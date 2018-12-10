@@ -1,0 +1,14 @@
+C:\Users\robson\Downloads\SGPA-master\SGPA-master\src\SGPA.Infrastructure\bin\Debug\netcoreapp2.1\SGPA.Infrastructure.deps.json
+C:\Users\robson\Downloads\SGPA-master\SGPA-master\src\SGPA.Infrastructure\bin\Debug\netcoreapp2.1\SGPA.Infrastructure.runtimeconfig.json
+C:\Users\robson\Downloads\SGPA-master\SGPA-master\src\SGPA.Infrastructure\bin\Debug\netcoreapp2.1\SGPA.Infrastructure.runtimeconfig.dev.json
+C:\Users\robson\Downloads\SGPA-master\SGPA-master\src\SGPA.Infrastructure\bin\Debug\netcoreapp2.1\SGPA.Infrastructure.dll
+C:\Users\robson\Downloads\SGPA-master\SGPA-master\src\SGPA.Infrastructure\bin\Debug\netcoreapp2.1\SGPA.Infrastructure.pdb
+C:\Users\robson\Downloads\SGPA-master\SGPA-master\src\SGPA.Infrastructure\bin\Debug\netcoreapp2.1\SGPA.ApplicationCore.dll
+C:\Users\robson\Downloads\SGPA-master\SGPA-master\src\SGPA.Infrastructure\bin\Debug\netcoreapp2.1\SGPA.ApplicationCore.pdb
+C:\Users\robson\Downloads\SGPA-master\SGPA-master\src\SGPA.Infrastructure\obj\Debug\netcoreapp2.1\SGPA.Infrastructure.csprojAssemblyReference.cache
+C:\Users\robson\Downloads\SGPA-master\SGPA-master\src\SGPA.Infrastructure\obj\Debug\netcoreapp2.1\SGPA.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\robson\Downloads\SGPA-master\SGPA-master\src\SGPA.Infrastructure\obj\Debug\netcoreapp2.1\SGPA.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\robson\Downloads\SGPA-master\SGPA-master\src\SGPA.Infrastructure\obj\Debug\netcoreapp2.1\SGPA.Infrastructure.AssemblyInfo.cs
+C:\Users\robson\Downloads\SGPA-master\SGPA-master\src\SGPA.Infrastructure\obj\Debug\netcoreapp2.1\SGPA.Infrastructure.csproj.CopyComplete
+C:\Users\robson\Downloads\SGPA-master\SGPA-master\src\SGPA.Infrastructure\obj\Debug\netcoreapp2.1\SGPA.Infrastructure.dll
+C:\Users\robson\Downloads\SGPA-master\SGPA-master\src\SGPA.Infrastructure\obj\Debug\netcoreapp2.1\SGPA.Infrastructure.pdb
